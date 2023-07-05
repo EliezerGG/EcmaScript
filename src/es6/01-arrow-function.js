@@ -6,6 +6,6 @@ const square1 = (num)=> {
     return num *num;
 }
 
-const square2 = num => console.log(Math.sqrt(num))
+const sqrt = num => console.log(Math.sqrt(num))
 
-square2(2);
+sqrt(2);
