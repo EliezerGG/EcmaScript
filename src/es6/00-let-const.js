@@ -1,8 +1,10 @@
 var lastName = 'Molina'
 lastName = 'Guevara' // reasignar
 console.log(lastName);
+var lastName = 'Guevara'
 
 let fruit = 'apple';
+// let fruit = 'banana';
 fruit = 'banana'
 console.log(fruit);
 
